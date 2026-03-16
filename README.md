@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Meera! 👋
 
-<!--
-**meera-vinod12/meera-vinod12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an **AI Product Manager** with a deep expertise in **Machine Learning, Analytics, and Human-Computer Interaction (HCI)**. My focus is on leading product discovery and execution for 0-1 projects, ensuring that AI solutions are not only high-performing but also **responsible, ethical, and compliant**.
 
-Here are some ideas to get you started:
+### 🚀 Expertise:
+- **Generative AI Product Management:** Leading end-to-end extraction and ingestion solutions at AIG Innovation Hub.
+- **Responsible AI:** Specialized in building trust through confidence scoring, observability frameworks, and ethical compliance.
+- **Human-Centered Design:** Leveraging HCI principles to ensure AI delivers superior user experiences.
+- **Cross-Functional Leadership:** Driving alignment between engineering, data science, and business stakeholders.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎓 Education:
+- **UC Berkeley School of Information:** Focus on AI/ML and Product Strategy.
+
+---
+### 📫 Connect with me:
+- [LinkedIn](https://www.linkedin.com/in/meera-vinod/)
+- [Website](https://www.aig.com)
+
+*"Bridging the gap between ML complexity and human-centric design."*
